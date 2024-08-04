@@ -1,3 +1,5 @@
+-- Vinicius de Souza Fernando - 201935042
+
 module Main where
 
 import Functions (createDice, getDifficulty, getNumDice, playGame, easyComputerTurn, hardComputerTurn)

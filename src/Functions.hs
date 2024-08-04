@@ -1,4 +1,4 @@
--- src/Functions.hs
+-- Vinicius de Souza Fernando - 201935042
 
 module Functions (
     Dice(..),
